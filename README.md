@@ -1,8 +1,8 @@
-# Android Project 1 - *Worlde*
+# Android Project 1 - *Wordle*
 
 Submitted by: **Fidel Ojimba**
 
-**Wordle** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
+**Simple Wordle Game** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
 Time spent: **10** hours spent in total
 
