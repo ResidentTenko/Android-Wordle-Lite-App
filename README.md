@@ -26,8 +26,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.i
-
 https://user-images.githubusercontent.com/109637465/189563517-021a88b6-bba6-422b-8f48-ff841a82947b.mp4
 
 Video created with NVIDIA Geforce Experience
